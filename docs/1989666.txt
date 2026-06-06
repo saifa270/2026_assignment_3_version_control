@@ -1,5 +1,5 @@
 ## [unreleased]
-- CHANGED: Fixed high-severity XXXXXXX bug in `data/a1885087.txt` (#1)
+- CHANGED: Fixed high-severity XXXXXXX bug in `data/1989666.txt` (#190)
 ## [Unreleased]
 - CHANGED: Fixed low-severity UPPERCASE words in `data/a1885087.txt` (#2)
 
